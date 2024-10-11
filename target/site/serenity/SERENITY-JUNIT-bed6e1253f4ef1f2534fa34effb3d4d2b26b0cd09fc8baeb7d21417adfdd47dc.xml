@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="San angel purchases" skipped="0" tests="3" time="68.04" timestamp="2024-10-10 10:47:09"><testcase name="Add 2 products to cart"/><testcase name="Add 1 product with 2 quantity to cart"/><testcase name="Add 2 product with 5 quantity to cart"/></testsuite>

@@ -1,0 +1,6 @@
+driver/SeleniumWebDriver.class
+interaction/changeToWindow.class
+interaction/Esperar.class
+tasks/AddProduct.class
+userInterface/SanAngelUserInterface.class
+questions/VerifyProductsInCart.class
